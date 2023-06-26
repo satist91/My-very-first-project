@@ -1,5 +1,9 @@
       PID    PPID    PGID     WINPID   TTY         UID    STIME COMMAND
-     1925    1889    1925      12788  cons2     197609 20:11:34 /usr/bin/PS
+     1989       1    1989      25508  cons4     197609 20:22:39 /usr/bin/bash
+     2147       1    2147      20648  cons5     197609 20:35:36 /usr/bin/bash
+     2211    2169    2211      26228  cons6     197609 20:37:46 /usr/bin/PS
      1889       1    1889      23640  cons2     197609 20:08:21 /usr/bin/bash
      1823       1    1823      10024  cons1     197609 19:42:30 /usr/bin/bash
+     1956       1    1956       9288  cons3     197609 20:22:10 /usr/bin/bash
      1802       1    1802       8452  cons0     197609 19:27:27 /usr/bin/bash
+     2169       1    2169      11772  cons6     197609 20:36:30 /usr/bin/bash
